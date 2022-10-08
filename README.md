@@ -9,5 +9,5 @@ My own C++ project template for Windows and Linux. It is simple and ready to com
 **Final note**: If you want a custom structure you can change it in the `build.ps1` file.
 
 ## TODO
-- [] Accept third party libraries into the `build` script.
-- [] Create template for linux.
+- [ ] Accept third party libraries into the `build` script.
+- [ ] Create template for linux.
